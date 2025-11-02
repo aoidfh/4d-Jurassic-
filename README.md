@@ -72,7 +72,9 @@
 ## 🧩 Tech Stack & Contact
 
 **Language:** C#
+
 **Engine:** Unity 2020
+
 **Tools:** Visual Studio, PowerDirector
 
 **Contact**
